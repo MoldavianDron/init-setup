@@ -1,0 +1,5 @@
+{
+    "user": "[EMAIL]",
+    "password": "[API-TOKEN]",
+    "url": "https://[ORG-NAME].atlassian.net"
+}
